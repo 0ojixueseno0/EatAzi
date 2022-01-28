@@ -441,11 +441,11 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
             SubmitResults();
         }
 
-        if (cps <= 5) return '试着好好练一下？';
-        if (cps <= 8) return 'TCL';
-        if (cps <= 10)  return 'TQL';
-        if (cps <= 15) return '您';
-        return '人？';
+        if (cps <= 5) return '噫，男妈妈都不如';
+        if (cps <= 8) return '屑Azi!';
+        if (cps <= 10)  return '米子习习，是个棒槌';
+        if (cps <= 15) return '/玫瑰';
+        return '米子习习：*从裤裆里掏出玫瑰';
     }
 
     function toStr(obj) {
