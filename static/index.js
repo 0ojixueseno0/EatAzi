@@ -444,7 +444,7 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
         if (cps <= 5) return '噫，男妈妈都不如';
         if (cps <= 8) return '屑Azi!';
         if (cps <= 10)  return '米子习习，是个棒槌';
-        if (cps <= 15) return '/玫瑰';
+        if (cps <= 12) return '/玫瑰';
         return '米子习习：*从裤裆里掏出玫瑰';
     }
 
